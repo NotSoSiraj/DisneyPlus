@@ -305,13 +305,7 @@ main {
         height: 230px;
         overflow: hidden;
     }
-    .header-wrapper {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding: 5px 8px;
-    width: 100%;
-}
+    
     
     .sliders {
         width: 500%;
@@ -335,9 +329,6 @@ main {
         margin-top: 61px;
     }
     
-    .image h3 {
-        display: none;
-    }
     .channels-wrapper {
         display: flex;
         margin-top: 41px;
