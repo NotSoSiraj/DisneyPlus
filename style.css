@@ -335,8 +335,9 @@ main {
         margin-top: 61px;
     }
     
-    .header-wrapper h3 {
+    .image h3 {
         display: none;
+    }
     .channels-wrapper {
         display: flex;
         margin-top: 41px;
