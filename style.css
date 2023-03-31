@@ -316,6 +316,18 @@ main {
         height: 233px;
         transition: 2s;
     }
+    #header svg {
+    width: 44%;
+}
+    .right-wrapper h2 {
+        display: none;
+    }
+    
+    .image img {
+    border-radius: 50px;
+    border: 2px solid #373d57;
+    width: 48px;
+}
     .navigation-manual {
         margin-top: -42px;
         display: flex;
